@@ -13,7 +13,7 @@ public class Quest8 {
                 delDuplicate[j] = delDuplicate[i];
                 j++;
             }
-
+   // print only filtered values
         System.out.print("Arrays without duplicated value: ");
         delDuplicate[j] = delDuplicate[delDuplicate.length - 1];
         for (int i = 0; i <= j; i++) {
