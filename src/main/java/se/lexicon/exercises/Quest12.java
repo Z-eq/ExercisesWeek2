@@ -1,6 +1,6 @@
 package se.lexicon.exercises;
 
-public class Quest11 {
+public class Quest12 {
     public static void main(String[] args) {
 
 
