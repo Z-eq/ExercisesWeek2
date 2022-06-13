@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 public class Quest9 {
 
+    // Adds extended array
     public static void main(String[] args) {
 
         int[] worldCups = {2014, 2018, 2022};
